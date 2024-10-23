@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "compsmp:item/takoyaki"
+		"layer0": "compsmp:item/memo/takoyaki"
 	}
 }

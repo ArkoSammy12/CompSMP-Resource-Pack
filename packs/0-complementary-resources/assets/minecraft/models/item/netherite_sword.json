@@ -4,6 +4,6 @@
 	  "layer0": "minecraft:item/netherite_sword"
   }, 
 "overrides": [
-    { "predicate": { "custom_model_data": 710777 }, "model": "compsmp:item/emanator"}
+    { "predicate": { "custom_model_data": 710777 }, "model": "compsmp:item/memo/emanator"}
   ]
 }

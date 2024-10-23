@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "compsmp:item/emanator"
+		"layer0": "compsmp:item/memo/emanator"
 	},
   "display": {
     "ground": {
