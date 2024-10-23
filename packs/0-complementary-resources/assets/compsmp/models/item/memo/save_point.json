@@ -2,5 +2,9 @@
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "compsmp:item/memo/save_point"
-	}
+	},
+  "display": {
+    "head": {
+      "translation": [0, 14, 0]
+    }
 }
