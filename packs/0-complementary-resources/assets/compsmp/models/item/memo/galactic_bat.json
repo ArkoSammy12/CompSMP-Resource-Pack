@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "comsmp:item/memo/galactic_bat"
+		"layer0": "compsmp:item/memo/galactic_bat"
 	},
   "display": {
     "thirdperson_righthand": {
