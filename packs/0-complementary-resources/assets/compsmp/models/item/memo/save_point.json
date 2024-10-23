@@ -1,11 +1,20 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "compsmp:item/memo/save_point"
 	},
-  "display": {
-    "head": {
-      "translation": [0, 16, 0]
-    }
-  }
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"translation": [0, 16, 0]
+		}
+	}
 }
