@@ -1,8 +1,8 @@
 {
     "pack": {
         "pack_format": 1,
-        "name": "Server Resourcepack",
-        "description": "Generated with https://github.com/OffsetMods538/Github-Resourcepack-Manager",
+        "name": "CompSMP Test",
+        "description": "Coming to you live with a serverside resource pack managed via github!",
         "supported_formats": {
             "min_inclusive": 1,
             "max_inclusive": 99
