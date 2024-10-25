@@ -4,6 +4,7 @@
 	  "layer0": "minecraft:item/mace"
   }, 
 "overrides": [
-    { "predicate": { "custom_model_data": 710426 }, "model": "compsmp:item/memo/galactic_bat"}
+    { "predicate": { "custom_model_data": 710426 }, "model": "compsmp:item/memo/galactic_bat"},
+    { "predicate": { "custom_model_data": 413473 }, "model": "compsmp:item/xander/smith_hammer"}
   ]
 }
