@@ -4,6 +4,7 @@
 	  "layer0": "minecraft:item/nether_star"
   }, 
 "overrides": [
-    { "predicate": { "custom_model_data": 710777 }, "model": "compsmp:item/memo/save_point"}
+    { "predicate": { "custom_model_data": 710777 }, "model": "compsmp:item/memo/save_point"},
+    { "predicate": { "custom_model_data": 710915 }, "model": "compsmp:item/memo/soul"}
   ]
 }
