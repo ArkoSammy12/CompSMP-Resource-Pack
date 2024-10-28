@@ -2,6 +2,6 @@
    "pack": {
       "pack_format": 22,
       "supported_formats": {"min_inclusive": 22, "max_inclusive": 69},
-      "description": {"text":"Provided by your local elf deity!","color":"#D5ADDD"}
+      "description": {"text":"Provided by your local elf deity! test edit","color":"#D5ADDD"}
    }
 }
