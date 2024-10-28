@@ -2,15 +2,15 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"texture": "compsmp:item/global/template_hat",
-		"particle": "compsmp:item/global/template_hat"
+		"particle": "compsmp:item/global/template_hat",
+		"texture": "compsmp:item/global/template_hat"
 	},
 	"elements": [
 		{
 			"name": "band",
 			"from": [3.85, 0.025, 3.85],
 			"to": [12.15, 1.325, 12.15],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.35, 8]},
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.1, 8]},
 			"faces": {
 				"north": {"uv": [12, 12.5, 16, 13], "texture": "#texture"},
 				"east": {"uv": [12, 13, 16, 13.5], "texture": "#texture"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "main",
-			"from": [4, 0.2, 4],
-			"to": [12, 4.2, 12],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.35, 8]},
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0.9, 8]},
 			"faces": {
 				"north": {"uv": [12, 0, 16, 2], "texture": "#texture"},
 				"east": {"uv": [12, 2, 16, 4], "texture": "#texture"},
@@ -36,7 +36,7 @@
 			"name": "main_negative",
 			"from": [12, 4, 12],
 			"to": [4, 0, 4],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.35, 8]},
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.1, 8]},
 			"faces": {
 				"north": {"uv": [12, 2, 16, 0], "texture": "#texture"},
 				"east": {"uv": [12, 4, 16, 2], "texture": "#texture"},
@@ -49,7 +49,7 @@
 			"name": "ring",
 			"from": [0, 0, 0],
 			"to": [16, 0, 16],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.35, 8]},
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 0], "texture": "#texture"},
 				"east": {"uv": [0, 0, 8, 0], "texture": "#texture"},
@@ -88,7 +88,7 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0, 15.5, 0],
+			"translation": [0, 16, 0],
 			"scale": [1.85, 1.85, 1.85]
 		},
 		"fixed": {
