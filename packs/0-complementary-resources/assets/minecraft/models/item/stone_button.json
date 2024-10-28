@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "minecraft:block/stone"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 593920 }, "model": "compsmp:item/xander/straw_hat"}
+  ]
+}
